@@ -6,4 +6,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/bullishgopher)
 
-https://www.codewars.com/users/multicall/badges/small
+![codewars](https://www.codewars.com/users/multicall/badges/small)
