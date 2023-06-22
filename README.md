@@ -4,6 +4,7 @@
   <br>
 </div>
 
-![Profile views](https://gpvc.arturio.dev/bullishgopher)
+![Profile views](https://komarev.com/ghpvc/?username=bullishgopher)
+<!-- ![Profile views](https://gpvc.arturio.dev/bullishgopher) -->
 
 <!-- ![codewars](https://www.codewars.com/users/multicall/badges/small) -->
